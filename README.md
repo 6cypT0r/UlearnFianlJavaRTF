@@ -35,3 +35,35 @@
 
 
 4. При нажатии кнопки "Exit" программа завершает свою работу. 
+
+## Description:
+Final project Ulearn Java-RTF №8.
+
+### Development process:
+First main file was created - UlearnFinalJava.java. Then files Parser.java , BDCreator.java , Request.java , Program.java were added.
+
+
+### Tasks to complete:
+1. Build a graph displaing gloabal sales statics by platfroms .
+2. Display the most sold game in Europe in 2000.
+3. Display the name of the most sold gamer in JApan from 2000 to 2006 in genre Sports.
+
+## Program usage manual and task completion:
+#### Instruction:
+If error occurs - change the paths to the files in source code dependig on where program is installed.
+
+
+### Task completion:
+1. When "Build graph" is pressed the graph appears and the message displaing what graph it is.
+
+
+
+2. When "Show game in EU" is pressed infromation in label area appears displaying most sold game in Europe in yaer 2000.
+
+
+
+3. When "Show game in JP" is pressed information in label area appears displaying most sold game in Japan in time period between 2000 and 2006 in genre Sports.
+
+
+
+4. When "Exit" is pressed program closes. 
