@@ -40,7 +40,7 @@
 Final project Ulearn Java-RTF №8.
 
 ### Development process:
-First main file was created - UlearnFinalJava.java. Then files Parser.java , BDCreator.java , Request.java , Program.java were added.
+First main file was created - UlearnFinalJava.java. Then files Parser.java , BDCreator.java , Request.java , Program.java were added. Files BDcreator.java and Parser.java work together. When program first laucnhes - it checks whether the data base exists. If not - the BDCreator object is created. It uses Parser.java to read the values from a csv file and also create a file to store unique values from Platform column in csv file in order to use them further to form SQL request and to build a graph. The required set of SQL requests is called depending on pressed button. 
 
 
 ### Tasks to complete:
